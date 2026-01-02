@@ -277,7 +277,7 @@ const githubProjects = [
     name: "Dad Jokes",
     description:
       "A Django-based web application for sharing and enjoying dad jokes with custom styling, likes, comments, and social authentication.",
-    url: "https://gcloo.live/",
+    url: "https://tansafapply.pythonanywhere.com//",
     codeUrl: "https://github.com/gcl140/dadjokes",
     tech: ["Django", "Google OAuth", "Python", "APIs"],
     type: "fullstack",
@@ -312,8 +312,8 @@ const githubProjects = [
     name: "CS01 Projects",
     description:
       "Collection of programming projects from Dartmouth's CS 1 course including graphics, algorithms, and interactive applications.",
-    url: "https://projectpython.net/",
-    codeUrl: "https://github.com/gcl140/cs01",
+    url: "https://github.com/gcl140/cs01",
+    codeUrl: "https://projectpython.net/",
     tech: ["Python", "cs1lib", "OOP"],
     type: "academic",
     year: "2025",
@@ -347,7 +347,7 @@ const githubProjects = [
     name: "IG-Post-Generator",
     description:
       "A powerful auto posting tool designed to help users efficiently manage their Instagram posts and engagement with daily posts for reels.",
-    url: "https://www.instagram.com/gcme.mes2025/",
+    url: "https://www.instagram.com/__meimez/",
     codeUrl: "https://github.com/gcl140/igmimz",
     tech: ["python", "api", "Authentication"],
     type: "fullstack",
